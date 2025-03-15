@@ -6,7 +6,7 @@ just replace textures in the template files!
 
 Perfect for adding personalized artwork to your Wild West experience. 🎨
 
-Inside the README file you will find the documentation.
+# Inside the README file you will find the documentation.
 
 Join our Discord to say hello and get support: **https://discord.gg/6Yy9qmrW5Q**
 
